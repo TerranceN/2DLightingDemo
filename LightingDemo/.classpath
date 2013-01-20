@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LWJGL_OpenGL_Base"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LWJGL_Texture"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LWJGL_Fonts"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LWJGL_UtilityClasses"/>
+	<classpathentry kind="var" path="LWJGL-JAR">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LWJGL_Test_Project/JAR/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
