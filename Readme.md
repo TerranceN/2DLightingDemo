@@ -3,9 +3,9 @@
 
 This is a 2D dynamic lighting demo, created using [LWJGL](http://www.lwjgl.org/), and uses [BMFont](http://www.angelcode.com/products/bmfont/) for fonts.
 
-This is just an upload of the project found [here](http://tniechciol.ca/Projects/LightingDemo/) so that it is easier to browse.
+This is just an upload of the project found [here](http://eat.sleep.build/Projects/LightingDemo/) so that it is easier to browse.
 
-You can download a playable version on the [project page](http://tniechciol.ca/Projects/LightingDemo/), or directly [here](http://tniechciol.ca/files/2DShadows.zip).
+You can download a playable version on the [project page](http://eat.sleep.build/Projects/LightingDemo/), or directly [here](http://eat.sleep.build/files/2DShadows.zip).
 
 Controls
 --------
